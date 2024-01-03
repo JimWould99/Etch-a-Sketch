@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 400px
+}
+
+#container div{
+    border: solid 1px black;
+}
+
+.color{
+    background-color: aquamarine;
+}
